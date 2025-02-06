@@ -6,8 +6,8 @@
 ### DOMENICO VITOBELLO
 ### STEFANO PIPITONE
 ### GABRIELE DE ANGELIS
+Questo è un messaggio da parte di Nichita
 Ciao Mondo
-palle
 ### NICHITA CUZMENCO
 ### ALESSIO ARPINO
 ### GIUSEPPE CITO
