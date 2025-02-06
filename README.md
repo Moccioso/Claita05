@@ -4,3 +4,4 @@ Ciao
 banana
 Gabriele è stato qui, ancora.
 Alessio è stato qui.
+Stefano è stato qui
