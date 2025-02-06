@@ -2,5 +2,5 @@
 Ciao
 
 
-Gabriele è stato qui, ancora.
-Alessio � stato qui.
+Gabriele Ã¨ stato qui, ancora. WEB
+Alessio è stato qui.
